@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: sans-serif;
+    line-height: 28px;
+}
+
+.container {
+    width: 85vw;
+    margin: 0 auto;
+}
+  
+.title {
+    text-align: center;
+    margin: 4rem;
+    font-size: 3.2rem;
+}
+  
+img {
+    border-radius: 10px;
+    display: block;
+    margin: 2rem auto;
+    width: 800px;
+    height: 500px;
+    object-fit: cover;
+}
+
+p {
+    font-size: 20px;
+}
